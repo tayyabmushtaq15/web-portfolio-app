@@ -1,0 +1,30 @@
+.home{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80vh;
+  }
+  .home .left{
+    background-color: var(--bg-color);
+    width: 620px;
+    text-align: center;
+    padding: 30px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    box-shadow: rgb(24, 23, 23);
+  }
+  .home .right .zeeImg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .home .right .zeeImg img{
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+    border: 5px solid lightgray;
+    box-shadow: rgb(24, 23, 23);
+    animation-name: animationEffect;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+  }

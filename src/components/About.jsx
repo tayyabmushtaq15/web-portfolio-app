@@ -1,6 +1,7 @@
-import React from 'react'
-import zeeImg from '../assets/zeeshanImg.jpeg'
-import resumPdf from '../assets/resume/resume.pdf'
+import './About.css';
+import React from 'react';
+import zeeImg from '../assets/zeeshanImg.jpeg';
+import resumPdf from '../assets/resume/resume.pdf';
 
 const About = () => {
   return (
