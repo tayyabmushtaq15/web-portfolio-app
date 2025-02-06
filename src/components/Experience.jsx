@@ -1,3 +1,4 @@
+import './Experience.css'
 import React from 'react'
 import experience from '../assets/data/experience.json'
 

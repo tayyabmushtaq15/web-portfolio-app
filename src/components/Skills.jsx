@@ -1,3 +1,4 @@
+import './Skills.css'
 import React from 'react';
 import skill from '../assets/data/skills.json';
 

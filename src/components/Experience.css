@@ -1,0 +1,14 @@
+.experience{
+    width: 900px;
+  }
+  .ex-items{
+    display: flex;
+    align-items: center;
+    background-color: var(--bg-color);
+    margin: 20px;
+    padding: 30px;
+    width: 800px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    box-shadow: rgb(24, 23, 23);
+  }
